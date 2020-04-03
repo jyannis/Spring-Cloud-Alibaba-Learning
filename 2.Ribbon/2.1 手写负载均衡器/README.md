@@ -67,7 +67,7 @@
 
 4. 调用service-a下的remote服务，查看日志：
 
-   
+   ![日志信息](https://raw.githubusercontent.com/jyannis/SpringCloud-Alibaba-Learning/master/2.Ribbon/2.1%20%E6%89%8B%E5%86%99%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1%E5%99%A8/docs/%E6%97%A5%E5%BF%97%E4%BF%A1%E6%81%AF.png)
 
-   
+   可以看到请求的目标地址的端口是随机出现的，说明负载均衡执行成功。
 
