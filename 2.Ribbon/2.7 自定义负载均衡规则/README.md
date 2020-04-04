@@ -152,9 +152,9 @@ service-b:
 *NacosDiscoveryProperties*下有很多可以直接通过get方法获取到的属性，例如：
 
 - *NameSpace* 命名空间
-- ClusterName* 集群名称
+- ClusterName 集群名称
 - *Weight* 权重
-- MetaData* 元数据
+- MetaData 元数据
 - ……
 
 几乎所有我们在*Nacos*控制台可以配置的信息，都可以通过*NacosDiscoveryProperties*来获取。这就意味着我们可以利用Nacos控制上配置的各种信息来定制化我们的策略，例如负载均衡算法等等，以下举例：
