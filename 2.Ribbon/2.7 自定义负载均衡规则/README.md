@@ -151,14 +151,15 @@ service-b:
 
 *NacosDiscoveryProperties*下有很多可以直接通过get方法获取到的属性，例如：
 
-- *ClusterName* 集群名称
-- *MetaData* 元数据
 - *NameSpace* 命名空间
+- ClusterName* 集群名称
 - *Weight* 权重
+- MetaData* 元数据
 - ……
 
 几乎所有我们在*Nacos*控制台可以配置的信息，都可以通过*NacosDiscoveryProperties*来获取。这就意味着我们可以利用Nacos控制上配置的各种信息来定制化我们的策略，例如负载均衡算法等等，以下举例：
 
+- 利用*NameSpace*命名空间不能跨空间调用的特性（也就是A命名空间的服务不能调用B命名空间的服务），可以帮助我们做环境的区分。例如生产环境、预生产环境、开发环境的区分。
 - 利用*ClusterName*集群名称，我们可以实现优先本集群调用（例如上海的服务尽量调用上海的服务而非北京的服务）
 - 利用*Weight*权重，我们可以实现基于权重的负载均衡算法（事实上*Nacos*已经帮我们实现了，也就是`selectOneHealthyInstance(String name)`方法
 - 利用*MetaData*元数据，我们可以实现更加自由灵活的定制策略。例如在元数据中设置我们的项目版本号，我们就可以实现有版本限制的调用，例如：
