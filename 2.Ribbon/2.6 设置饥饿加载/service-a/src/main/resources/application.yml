@@ -1,0 +1,19 @@
+spring:
+  cloud:
+    nacos:
+      discovery:
+        #指定nacos server的地址
+        server-addr: localhost:8848
+  application:
+    #服务名称（尽量用-，不要用_，更不要用特殊字符）
+    name: service-a
+
+ribbon:
+  eager-load:
+    # 指定饥饿加载
+    enabled: true
+    # 指定饥饿加载的服务名，多个服务名之间用英文逗号隔开
+    clients: service-b
+
+server:
+  port: 8181
