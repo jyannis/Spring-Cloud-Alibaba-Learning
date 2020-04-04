@@ -135,3 +135,32 @@ service-b:
 ```
 
 其中共调用8182节点的服务三次，8183节点的服务6次，基本符合0.2:0.5的权重比。
+
+
+
+
+
+# 补充
+
+注意下面这个组件：
+
+```java
+    @Autowired
+    private NacosDiscoveryProperties nacosDiscoveryProperties;
+```
+
+*NacosDiscoveryProperties*下有很多可以直接通过get方法获取到的属性，例如：
+
+- *ClusterName* 集群名称
+- *MetaData* 元数据
+- *NameSpace* 命名空间
+- *Weight* 权重
+- ……
+
+几乎所有我们在*Nacos*控制台可以配置的信息，都可以通过*NacosDiscoveryProperties*来获取。这就意味着我们可以利用Nacos控制上配置的各种信息来定制化我们的策略，例如负载均衡算法等等，以下举例：
+
+- 利用*ClusterName*集群名称，我们可以实现优先本集群调用（例如上海的服务尽量调用上海的服务而非北京的服务）
+- 利用*Weight*权重，我们可以实现基于权重的负载均衡算法（事实上*Nacos*已经帮我们实现了，也就是`selectOneHealthyInstance(String name)`方法
+- 利用*MetaData*元数据，我们可以实现更加自由灵活的定制策略。例如在元数据中设置我们的项目版本号，我们就可以实现有版本限制的调用，例如：
+  - *V1*版本的*service-a*只能调用*V1*版本的*service-b*
+  - *V2*版本的*service-a*可以调用*V1*或者*V2*版本的*service-b*
