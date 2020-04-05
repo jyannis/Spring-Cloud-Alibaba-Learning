@@ -23,10 +23,10 @@
 1. 添加对*Feign*的依赖
 
    ```yaml
-   		<dependency>
-   			<groupId>org.springframework.cloud</groupId>
-   			<artifactId>spring-cloud-starter-openfeign</artifactId>
-   		</dependency>
+   <dependency>
+   	<groupId>org.springframework.cloud</groupId>
+   	<artifactId>spring-cloud-starter-openfeign</artifactId>
+   </dependency>
    ```
 
    
