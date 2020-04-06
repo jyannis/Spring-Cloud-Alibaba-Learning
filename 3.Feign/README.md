@@ -35,13 +35,45 @@ Feign是Netflix开源的声明式HTTP客户端，致力于让编写HTTP Client�
 
 
 
-## Github地址
-
-https://github.com/openfeign/feign
 
 
+## Feign支持的配置项
 
+在本仓库中，只以*Feign*的日志级别为例指导读者如何进行*Feign*的配置（包括*java*代码方式和*yml*属性方式）
 
+*Feign*能够支持的配置项不只有日志级别这一种，还有很多，代码中不会一一列举，就整理在这里：
+
+- *Java*代码方式支持的配置如下：
+
+  | 配置项                           | 作用                                                    |
+  | -------------------------------- | ------------------------------------------------------- |
+  | Logger.Level                     | 日志级别                                                |
+  | Retryer                          | 重试策略                                                |
+  | ErrorDecoder                     | 错误解码器                                              |
+  | Request.Options                  | 超时时间                                                |
+  | Collection\<RequestInterceptor\> | 拦截器                                                  |
+  | SetterFactory                    | 用于设置Hystrix的配置属性，<br>Feign整合Hystrix时才会用 |
+
+  
+
+- yml属性方式支持的配置如下：
+
+  ```yaml
+  feign.client.config:
+  	<feignName>: #微服务名，例如service-b
+  		connectTimeout: 5000 #连接超时时间
+  		readTimeout: 5000 #读取超时时间
+  		loggerLevel: FULL #日志级别
+  		errorDecoder: com.example.SimpleErrorDecoder #错误解码器
+  		retryer: com.example.SimpleRetryer #重试策略
+  		requestInterceptors: com.example.FooRequestInterceptor #拦截器
+  		decode404: false #是否对404错误码解码
+  		encoder: com.example.SimpleEncoder #编码器
+  		decoder: com.example.SimpleDecoder #解码器
+  		contract: com.example.SimpleContract #契约
+  ```
+
+  
 
 
 
@@ -82,3 +114,11 @@ restTemplate.getForObject(
 ```
 
 非常像我们写常规*SpringBoot*项目时*@RequestMapping*的写法，写起来方便，可读性也强。我们在需要进行远程调用的地方，直接调用*methodName*方法即可。
+
+
+
+
+
+## Github地址
+
+https://github.com/openfeign/feign
