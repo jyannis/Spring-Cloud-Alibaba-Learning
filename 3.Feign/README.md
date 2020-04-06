@@ -31,7 +31,7 @@ Feign是Netflix开源的声明式HTTP客户端，致力于让编写HTTP Client�
 | NONE（默认） | 不记录任何日志                                               |
 | BASIC        | 仅记录请求方法，URL，响应状态代码以及执行时间（适合生产环境） |
 | HEADERS      | 记录BASIC级别的基础上，记录请求和响应的header                |
-| FULL         | 记录请求和弦ineader，body和元数据                            |
+| FULL         | 记录请求和响应的header，body和元数据                         |
 
 
 
