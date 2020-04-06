@@ -105,3 +105,8 @@
    
    其中端口为8182的节点接收了七次请求，端口为8183的节点接收了三次请求。说明我们成功替换了*Ribbon*的负载均衡算法，从默认的*ZoneAvoidanceRule*替换为了*RandomRule*。
 
+
+
+# 补充
+
+*Ribbon*配置类*RibbonConfiguration*除了放在与启动类不同的文件夹下外，也可以去除*@Configuration*注解后，与启动类放在同一个文件夹。详细可以参考*service-a2*。
