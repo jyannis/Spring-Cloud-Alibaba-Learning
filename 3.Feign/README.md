@@ -77,6 +77,14 @@ Feign是Netflix开源的声明式HTTP客户端，致力于让编写HTTP Client�
 
 
 
+## 配置优先级
+
+细粒度yml属性配置 ＞ 细粒度java代码配置 ＞ 全局yml属性配置 ＞ 全局java代码配置
+
+
+
+
+
 ## Feign与RestTemplate比较
 
 在1-2节中，我们依次学会了使用*Nacos*做服务发现组件及使用*Ribbon*做负载均衡。其间都是使用*RestTemplate*来进行远程*Http*调用。
