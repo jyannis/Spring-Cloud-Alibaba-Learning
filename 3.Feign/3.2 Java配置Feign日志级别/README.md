@@ -139,3 +139,9 @@
    ```
 
    
+
+# 补充
+
+可以注意到这里的*FeignClient*配置类*ServiceBFeignConfiguration*上是没有*@Configuration*注解的。
+
+这一点与*Ribbon*一节中提到的父子上下文是一个道理，如果要加*@Configuration*，就要把这个配置类放到**启动类所在文件夹的外面**。具体可以参考[2.3 基于Java配置Ribbon](https://github.com/jyannis/SpringCloud-Alibaba-Learning/tree/master/2.Ribbon/2.3%20%E5%9F%BA%E4%BA%8EJava%E9%85%8D%E7%BD%AE)
