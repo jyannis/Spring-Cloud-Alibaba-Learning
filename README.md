@@ -6,18 +6,16 @@
 **目录**
 
 - [学习提纲](#学习提纲)
-  - 1. [***Nacos***](#1. Nacos)
+  - 1. [***Nacos***](#1\. Nacos)
   - 2. [***Ribbon***](2. ***Ribbon***)
-  - 3. [***Feign***](#3. \*\*\*Feign\*\*\*)
+  - 3. [***Feign***](#3\. \*\*\*Feign\*\*\*)
 - [前置知识](#前置知识)
-- [Spring Cloud Alibaba是什么](#Spring\ Cloud\ Alibaba是什么)
+- [Spring-Cloud-Alibaba是什么](#Spring-Cloud-Alibaba是什么)
   - Spring Cloud
   - Spring Cloud Alibaba
   - Spring Cloud Alibaba主要组件
   - 本仓库中主要使用的组件
 - 开发环境/生产环境
-
-
 
 
 
@@ -59,7 +57,7 @@ Ribbon是Netflix开源的负载均衡器，它内置了许多负载均衡算法�
 
 
 
-## Spring Cloud Alibaba是什么
+## Spring-Cloud-Alibaba是什么
 
 以下简介参考自[Spring Cloud Alibaba 新一代微服务解决方案](https://yq.aliyun.com/articles/740001?utm_content=g_1000095090)
 
@@ -77,7 +75,7 @@ Spring Cloud 通过 Spring Boot 风格的封装，屏蔽掉了复杂的配置和
 
 一般来说，Spring Cloud 包含以下组件，主要以 Netflix 开源为主：
 
-[图片]
+![Spring Cloud组件](https://github.com/jyannis/SpringCloud-Alibaba-Learning/blob/master/docs/Spring%20Cloud%E7%BB%84%E4%BB%B6.jpg?raw=true)
 
 
 
@@ -89,7 +87,7 @@ Spring Cloud 通过 Spring Boot 风格的封装，屏蔽掉了复杂的配置和
 
 作为 Spring Cloud 体系下的新实现，Spring Cloud Alibaba 跟官方的组件或其它的第三方实现如 Netflix, Consul，Zookeeper 等对比，具备了更多的功能:
 
-[图片]
+![Spring Cloud各体系](https://github.com/jyannis/SpringCloud-Alibaba-Learning/blob/master/docs/Spring%20Cloud%E5%90%84%E4%BD%93%E7%B3%BB.jpg?raw=true)
 
 
 
@@ -97,7 +95,7 @@ Spring Cloud 通过 Spring Boot 风格的封装，屏蔽掉了复杂的配置和
 
 这幅图是 Spring Cloud Alibaba 系列组件，其中包含了阿里开源组件，阿里云商业化组件，以及集成Spring Cloud 组件。
 
-
+![Spring Cloud Alibaba包含组件](https://github.com/jyannis/SpringCloud-Alibaba-Learning/blob/master/docs/Spring%20Cloud%20Alibaba%E5%8C%85%E5%90%AB%E7%BB%84%E4%BB%B6.jpg?raw=true)
 
 
 
