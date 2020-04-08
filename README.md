@@ -7,7 +7,7 @@
 
 - [学习提纲](#学习提纲)
   - 1. [***Nacos***](#1.)
-  - 2. [***Ribbon***](#2\. ribbon)
+  - 2. [***Ribbon***](#2\.\ ribbon)
   - 3. [***Feign***](#3\. \*\*\*feign\*\*\*)
 - [前置知识](#前置知识)
 - [Spring-Cloud-Alibaba是什么](#Spring-Cloud-Alibaba是什么)
