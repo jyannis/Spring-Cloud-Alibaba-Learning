@@ -1,21 +1,21 @@
-# SpringCloud-Alibaba-Learning
-学习SpringCloud Alibaba
+# Spring-Cloud-Alibaba-Learning
+学习Spring-Cloud-Alibaba
 
 
 
 **目录**
 
 - [学习提纲](#学习提纲)
-  - [***1.Nacos***](#1.***nacos***)
-  - [***2.Ribbon***](#2\.ribbon)
-  - [***3.Feign***](#3\.\*\*\*feign\*\*\*)
+  - [**1-Nacos**](#1-Nacos)
+  - [**2-Ribbon**](#2-Ribbon)
+  - [**3-Feign**](#3-Feign)
 - [前置知识](#前置知识)
 - [Spring-Cloud-Alibaba是什么](#Spring-Cloud-Alibaba是什么)
-  - Spring Cloud
-  - Spring Cloud Alibaba
-  - Spring Cloud Alibaba主要组件
-  - 本仓库中主要使用的组件
-- 开发环境/生产环境
+  - [Spring-Cloud](#Spring-Cloud)
+  - [Spring-Cloud-Alibaba](#Spring-Cloud)
+  - [Spring-Cloud-Alibaba主要组件](#Spring-Cloud-Alibaba主要组件)
+  - [本仓库中主要使用的组件](#本仓库中主要使用的组件)
+- [开发环境/生产环境](#开发环境/生产环境)
 
 
 
@@ -23,13 +23,13 @@
 
 ## 学习提纲
 
-### 1.***Nacos***
+### 1-Nacos
 
 要将一个单体项目拆分为微服务，首先就要能够做到服务注册和发现，否则不同的微服务间是无法互相调用的。而*Nacos*就是由阿里巴巴开源的一款优秀的服务发现组件。
 
 
 
-### 2.***Ribbon***
+### 2-Ribbon
 
 继微服务间能够互相发现与调用之后，我们紧接着要考虑的就是如何均衡对每个微服务节点的负载。
 
@@ -41,7 +41,7 @@ Ribbon是Netflix开源的负载均衡器，它内置了许多负载均衡算法�
 
 
 
-### 3.***Feign***
+### 3-Feign
 
 *RestTemplate*是**编程式**服务调用组件，而Feign是**声明式**服务调用组件，能够使远程服务调用与其他业务逻辑解耦，提升代码的可读性、可维护性。在本节中，我们将使用*Feign*来替代*RestTemplate*，并实践一种面向契约编程解决方案——使用**Feign继承**，以简化我们的代码。
 
@@ -67,7 +67,7 @@ Spring Cloud Alibaba是阿里巴巴提供的微服务开发一站式解决方案
 
 
 
-### Spring Cloud
+### Spring-Cloud
 
 SpringCloud 是若干个框架的集合，包括 spring-cloud-config、spring-cloud-bus 等近 20 个子项目，提供了服务治理、服务网关、智能路由、负载均衡、断路器、监控跟踪、分布式消息队列、配置管理等领域的解决方案。
 
@@ -79,7 +79,7 @@ Spring Cloud 通过 Spring Boot 风格的封装，屏蔽掉了复杂的配置和
 
 
 
-### Spring Cloud Alibaba
+### Spring-Cloud-Alibaba
 
 同 Spring Cloud 一样，Spring Cloud Alibaba 也是一套微服务解决方案，包含开发分布式应用微服务的必需组件，方便开发者通过 Spring Cloud 编程模型轻松使用这些组件来开发分布式应用服务。
 
@@ -91,7 +91,7 @@ Spring Cloud 通过 Spring Boot 风格的封装，屏蔽掉了复杂的配置和
 
 
 
-### Spring Cloud Alibaba主要组件
+### Spring-Cloud-Alibaba主要组件
 
 这幅图是 Spring Cloud Alibaba 系列组件，其中包含了阿里开源组件，阿里云商业化组件，以及集成Spring Cloud 组件。
 
