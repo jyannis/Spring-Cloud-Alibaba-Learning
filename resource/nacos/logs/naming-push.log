@@ -1,0 +1,14 @@
+2020-04-15 12:20:28,238 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-15 12:20:48,311 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-15 12:21:08,315 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-15 12:21:28,322 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-15 12:21:38,483 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-15 12:21:41,109 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-15 12:21:48,325 INFO [NACOS-PUSH] clientMap size: 1
+

@@ -1,0 +1,72 @@
+2020-04-15 12:20:28,182 INFO distro notifier started
+
+2020-04-15 12:20:33,158 DEBUG server list is: []
+
+2020-04-15 12:20:38,294 DEBUG server list is: []
+
+2020-04-15 12:20:43,297 DEBUG server list is: []
+
+2020-04-15 12:20:48,322 DEBUG server list is: []
+
+2020-04-15 12:20:53,325 DEBUG server list is: []
+
+2020-04-15 12:20:58,336 DEBUG server list is: []
+
+2020-04-15 12:21:03,337 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":1586924462867,"lastRefTimeStr":"2020-04-15 12:21:02","servePort":8848,"site":"unknown","weight":4}]
+
+2020-04-15 12:21:08,358 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":1586924462867,"lastRefTimeStr":"2020-04-15 12:21:02","servePort":8848,"site":"unknown","weight":4}]
+
+2020-04-15 12:21:13,409 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":1586924462867,"lastRefTimeStr":"2020-04-15 12:21:02","servePort":8848,"site":"unknown","weight":4}]
+
+2020-04-15 12:21:18,413 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":1586924462867,"lastRefTimeStr":"2020-04-15 12:21:02","servePort":8848,"site":"unknown","weight":4}]
+
+2020-04-15 12:21:23,414 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":1586924462867,"lastRefTimeStr":"2020-04-15 12:21:02","servePort":8848,"site":"unknown","weight":4}]
+
+2020-04-15 12:21:28,416 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":1586924462867,"lastRefTimeStr":"2020-04-15 12:21:02","servePort":8848,"site":"unknown","weight":4}]
+
+2020-04-15 12:21:33,417 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":1586924462867,"lastRefTimeStr":"2020-04-15 12:21:02","servePort":8848,"site":"unknown","weight":4}]
+
+2020-04-15 12:21:37,469 DEBUG got key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-a
+
+2020-04-15 12:21:37,486 DEBUG [NACOS-DISTRO] datum change notified, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-a, listener count: 1, action: CHANGE
+
+2020-04-15 12:21:38,419 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":1586924462867,"lastRefTimeStr":"2020-04-15 12:21:02","servePort":8848,"site":"unknown","weight":4}]
+
+2020-04-15 12:21:38,419 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-a=199684d86a14be44ff0c731cce79f5f7}
+
+2020-04-15 12:21:40,109 DEBUG got key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-b
+
+2020-04-15 12:21:40,110 DEBUG [NACOS-DISTRO] datum change notified, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-b, listener count: 1, action: CHANGE
+
+2020-04-15 12:21:43,420 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":1586924462867,"lastRefTimeStr":"2020-04-15 12:21:02","servePort":8848,"site":"unknown","weight":4}]
+
+2020-04-15 12:21:43,420 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-b=acd08c8747bc5245a7e22537bb2c39b3, com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-a=199684d86a14be44ff0c731cce79f5f7}
+
+2020-04-15 12:21:48,422 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":1586924462867,"lastRefTimeStr":"2020-04-15 12:21:02","servePort":8848,"site":"unknown","weight":4}]
+
+2020-04-15 12:21:48,424 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-b=acd08c8747bc5245a7e22537bb2c39b3, com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-a=199684d86a14be44ff0c731cce79f5f7}
+
+2020-04-15 12:21:53,426 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":1586924462867,"lastRefTimeStr":"2020-04-15 12:21:02","servePort":8848,"site":"unknown","weight":4}]
+
+2020-04-15 12:21:53,426 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-b=acd08c8747bc5245a7e22537bb2c39b3, com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-a=199684d86a14be44ff0c731cce79f5f7}
+
+2020-04-15 12:21:58,426 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":1586924462867,"lastRefTimeStr":"2020-04-15 12:21:02","servePort":8848,"site":"unknown","weight":4}]
+
+2020-04-15 12:21:58,426 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-b=acd08c8747bc5245a7e22537bb2c39b3, com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-a=199684d86a14be44ff0c731cce79f5f7}
+
+2020-04-15 12:22:03,429 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":1586924462867,"lastRefTimeStr":"2020-04-15 12:21:02","servePort":8848,"site":"unknown","weight":4}]
+
+2020-04-15 12:22:03,429 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-b=acd08c8747bc5245a7e22537bb2c39b3, com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-a=199684d86a14be44ff0c731cce79f5f7}
+
+2020-04-15 12:22:08,431 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":1586924462867,"lastRefTimeStr":"2020-04-15 12:21:02","servePort":8848,"site":"unknown","weight":4}]
+
+2020-04-15 12:22:08,431 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-b=acd08c8747bc5245a7e22537bb2c39b3, com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-a=199684d86a14be44ff0c731cce79f5f7}
+
+2020-04-15 12:22:13,432 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":1586924462867,"lastRefTimeStr":"2020-04-15 12:21:02","servePort":8848,"site":"unknown","weight":4}]
+
+2020-04-15 12:22:13,434 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-b=acd08c8747bc5245a7e22537bb2c39b3, com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-a=199684d86a14be44ff0c731cce79f5f7}
+
+2020-04-15 12:22:18,438 DEBUG server list is: [{"adWeight":0,"alive":true,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":1586924462867,"lastRefTimeStr":"2020-04-15 12:21:02","servePort":8848,"site":"unknown","weight":4}]
+
+2020-04-15 12:22:18,438 DEBUG sync checksums: {com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-b=acd08c8747bc5245a7e22537bb2c39b3, com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-a=199684d86a14be44ff0c731cce79f5f7}
+

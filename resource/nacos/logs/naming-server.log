@@ -1,0 +1,39 @@
+2020-04-15 12:20:28,240 INFO listen for service meta change
+
+2020-04-15 12:20:51,270 INFO [SERVER-INIT] got port: 8848
+
+2020-04-15 12:20:51,270 INFO [SERVER-INIT] got path: /nacos
+
+2020-04-15 12:21:02,867 INFO receive config info: unknown#192.168.2.101:8848#1586924462867#4
+
+
+2020-04-15 12:21:02,867 INFO [NACOS-DISTRO] healthy server list changed, disable health check for 60000 ms from now on, old: [], new: [{"adWeight":0,"alive":true,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":1586924462867,"lastRefTimeStr":"2020-04-15 12:21:02","servePort":8848,"site":"unknown","weight":4}]
+
+2020-04-15 12:21:09,806 INFO [HEALTH-CHECK] health check is false
+
+2020-04-15 12:21:17,879 INFO receive config info: unknown#192.168.2.101:8848#1586924477879#4
+
+
+2020-04-15 12:21:32,879 INFO receive config info: unknown#192.168.2.101:8848#1586924492879#4
+
+
+2020-04-15 12:21:37,424 INFO creating empty service public:DEFAULT_GROUP@@service-a
+
+2020-04-15 12:21:37,454 WARN cluster: DEFAULT not found, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.2.101#8181#DEFAULT#DEFAULT_GROUP@@service-a","ip":"192.168.2.101","lastBeat":1586924497402,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8181,"serviceName":"DEFAULT_GROUP@@service-a","tenant":"","weight":1}, will create new cluster with default configuration.
+
+2020-04-15 12:21:37,469 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-a, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.2.101#8181#DEFAULT#DEFAULT_GROUP@@service-a","ip":"192.168.2.101","lastBeat":1586924497402,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8181,"serviceName":"DEFAULT_GROUP@@service-a","tenant":"","weight":1}]}
+
+2020-04-15 12:21:40,107 INFO creating empty service public:DEFAULT_GROUP@@service-b
+
+2020-04-15 12:21:40,108 WARN cluster: DEFAULT not found, ip: {"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.2.101#8183#DEFAULT#DEFAULT_GROUP@@service-b","ip":"192.168.2.101","lastBeat":1586924500107,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8183,"serviceName":"DEFAULT_GROUP@@service-b","tenant":"","weight":1}, will create new cluster with default configuration.
+
+2020-04-15 12:21:40,108 INFO [NACOS-RAFT] datum is changed, key: com.alibaba.nacos.naming.iplist.ephemeral.public##DEFAULT_GROUP@@service-b, value: {"cachedChecksum":"","instanceList":[{"app":"DEFAULT","clusterName":"DEFAULT","enabled":true,"ephemeral":true,"healthy":true,"instanceId":"192.168.2.101#8183#DEFAULT#DEFAULT_GROUP@@service-b","ip":"192.168.2.101","lastBeat":1586924500107,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"port":8183,"serviceName":"DEFAULT_GROUP@@service-b","tenant":"","weight":1}]}
+
+2020-04-15 12:21:47,882 INFO receive config info: unknown#192.168.2.101:8848#1586924507882#4
+
+
+2020-04-15 12:22:02,884 INFO receive config info: unknown#192.168.2.101:8848#1586924522884#4
+
+
+2020-04-15 12:22:02,884 INFO [NACOS-DISTRO] distro threshold restored and stable now, enable health check. current ratio: 1.0
+

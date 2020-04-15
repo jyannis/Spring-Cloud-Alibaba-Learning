@@ -1,0 +1,154 @@
+2020-04-10 21:21:01,997 INFO Starting Nacos v1.0.1 on DESKTOP-P0RI549 with PID 26500 (C:\Program Files\nacos\target\nacos-server.jar started by 12340 in C:\Program Files\nacos\bin)
+
+2020-04-10 21:21:02,037 INFO The following profiles are active: standalone
+
+2020-04-10 21:21:05,637 INFO Bean 'org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration' of type [org.springframework.security.config.annotation.configuration.ObjectPostProcessorConfiguration$$EnhancerBySpringCGLIB$$a11453b4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-10 21:21:12,998 INFO Bean 'objectPostProcessor' of type [org.springframework.security.config.annotation.configuration.AutowireBeanFactoryObjectPostProcessor] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-10 21:21:13,016 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@6e9175d8' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-10 21:21:13,019 INFO Bean 'org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration' of type [org.springframework.security.config.annotation.method.configuration.GlobalMethodSecurityConfiguration$$EnhancerBySpringCGLIB$$c5e8f666] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-10 21:21:13,036 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2020-04-10 21:21:16,174 INFO Tomcat initialized with port(s): 8848 (http)
+
+2020-04-10 21:21:16,226 INFO Starting service [Tomcat]
+
+2020-04-10 21:21:16,227 INFO Starting Servlet Engine: Apache Tomcat/9.0.13
+
+2020-04-10 21:21:16,250 INFO The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_241\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\NetSarang\Xftp 6\;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Git\cmd;C:\Program Files\gradle-4.6\bin;C:\Program Files\dotnet\;D:\Program Files (x86)\phantomjs-2.1.1-windows\bin;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.8.0_241\bin;C:\Program Files\Java\jdk1.8.0_241\jre\bin;C:\Program Files\Pandoc\;C:\Users\12340\AppData\Local\Microsoft\WindowsApps;;C:\Program Files\Microsoft VS Code\bin;C:\Users\12340\AppData\Roaming\npm;.]
+
+2020-04-10 21:21:16,755 INFO Initializing Spring embedded WebApplicationContext
+
+2020-04-10 21:21:16,755 INFO Root WebApplicationContext: initialization completed in 14614 ms
+
+2020-04-10 21:21:24,911 INFO Use Mysql as the driver
+
+2020-04-10 21:21:25,626 INFO Initializing ExecutorService 'applicationTaskExecutor'
+
+2020-04-10 21:21:26,312 INFO Adding welcome page: class path resource [static/index.html]
+
+2020-04-10 21:21:26,941 INFO Creating filter chain: Ant [pattern='/'], []
+
+2020-04-10 21:21:26,943 INFO Creating filter chain: Ant [pattern='/**/*.css'], []
+
+2020-04-10 21:21:26,944 INFO Creating filter chain: Ant [pattern='/**/*.js'], []
+
+2020-04-10 21:21:26,944 INFO Creating filter chain: Ant [pattern='/**/*.html'], []
+
+2020-04-10 21:21:26,945 INFO Creating filter chain: Ant [pattern='/**/*.map'], []
+
+2020-04-10 21:21:26,946 INFO Creating filter chain: Ant [pattern='/**/*.svg'], []
+
+2020-04-10 21:21:26,946 INFO Creating filter chain: Ant [pattern='/**/*.png'], []
+
+2020-04-10 21:21:26,946 INFO Creating filter chain: Ant [pattern='/**/*.ico'], []
+
+2020-04-10 21:21:26,947 INFO Creating filter chain: Ant [pattern='/console-fe/public/**'], []
+
+2020-04-10 21:21:26,948 INFO Creating filter chain: Ant [pattern='/v1/auth/login'], []
+
+2020-04-10 21:21:26,948 INFO Creating filter chain: Ant [pattern='/v1/console/health/**'], []
+
+2020-04-10 21:21:26,949 INFO Creating filter chain: Ant [pattern='/v1/cs/**'], []
+
+2020-04-10 21:21:26,949 INFO Creating filter chain: Ant [pattern='/v1/ns/**'], []
+
+2020-04-10 21:21:26,950 INFO Creating filter chain: Ant [pattern='/v1/cmdb/**'], []
+
+2020-04-10 21:21:26,950 INFO Creating filter chain: Ant [pattern='/actuator/**'], []
+
+2020-04-10 21:21:26,950 INFO Creating filter chain: Ant [pattern='/v1/console/server/**'], []
+
+2020-04-10 21:21:27,016 INFO Creating filter chain: any request, [org.springframework.security.web.context.request.async.WebAsyncManagerIntegrationFilter@5c153b9e, org.springframework.security.web.context.SecurityContextPersistenceFilter@793138bd, org.springframework.security.web.header.HeaderWriterFilter@784b990c, org.springframework.security.web.authentication.logout.LogoutFilter@e98770d, com.alibaba.nacos.console.filter.JwtAuthenticationTokenFilter@2a7686a7, org.springframework.security.web.savedrequest.RequestCacheAwareFilter@5c18016b, org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilter@57ac5227, org.springframework.security.web.authentication.AnonymousAuthenticationFilter@758a34ce, org.springframework.security.web.session.SessionManagementFilter@25bc0606, org.springframework.security.web.access.ExceptionTranslationFilter@3e14c16d, org.springframework.security.web.access.intercept.FilterSecurityInterceptor@4bc28c33]
+
+2020-04-10 21:21:27,082 INFO Exposing 2 endpoint(s) beneath base path '/actuator'
+
+2020-04-10 21:21:27,127 INFO Initializing ExecutorService 'taskScheduler'
+
+2020-04-10 21:21:27,324 INFO Tomcat started on port(s): 8848 (http) with context path '/nacos'
+
+2020-04-10 21:21:27,331 INFO Started Nacos in 29.654 seconds (JVM running for 31.284)
+
+2020-04-10 21:21:27,331 INFO Nacos Log files: C:\Program Files\nacos/logs/
+
+2020-04-10 21:21:27,331 INFO Nacos Conf files: C:\Program Files\nacos/conf/
+
+2020-04-10 21:21:27,332 INFO Nacos Data files: C:\Program Files\nacos/data/
+
+2020-04-10 21:21:27,332 INFO Nacos started successfully in stand alone mode.
+
+2020-04-10 21:21:29,629 INFO Initializing Spring DispatcherServlet 'dispatcherServlet'
+
+2020-04-10 21:21:29,631 INFO Initializing Servlet 'dispatcherServlet'
+
+2020-04-10 21:21:29,646 INFO Completed initialization in 15 ms
+
+2020-04-10 21:31:24,479 INFO [capacityManagement] start correct usage
+
+2020-04-10 21:31:24,578 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 21:31:24,901 WARN clearConfigHistory start
+
+2020-04-10 21:41:24,580 INFO [capacityManagement] start correct usage
+
+2020-04-10 21:41:24,582 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 21:41:24,948 WARN clearConfigHistory start
+
+2020-04-10 21:51:24,586 INFO [capacityManagement] start correct usage
+
+2020-04-10 21:51:24,587 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 21:51:24,951 WARN clearConfigHistory start
+
+2020-04-10 22:01:24,590 INFO [capacityManagement] start correct usage
+
+2020-04-10 22:01:24,594 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 22:01:24,954 WARN clearConfigHistory start
+
+2020-04-10 22:11:24,597 INFO [capacityManagement] start correct usage
+
+2020-04-10 22:11:24,608 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 22:11:24,958 WARN clearConfigHistory start
+
+2020-04-10 22:21:24,609 INFO [capacityManagement] start correct usage
+
+2020-04-10 22:21:24,613 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 22:21:24,961 WARN clearConfigHistory start
+
+2020-04-10 22:31:24,614 INFO [capacityManagement] start correct usage
+
+2020-04-10 22:31:24,616 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 22:31:24,964 WARN clearConfigHistory start
+
+2020-04-10 22:41:24,618 INFO [capacityManagement] start correct usage
+
+2020-04-10 22:41:24,623 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 22:41:24,965 WARN clearConfigHistory start
+
+2020-04-10 22:51:24,625 INFO [capacityManagement] start correct usage
+
+2020-04-10 22:51:24,628 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 22:51:24,968 WARN clearConfigHistory start
+
+2020-04-10 23:01:24,629 INFO [capacityManagement] start correct usage
+
+2020-04-10 23:01:24,630 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 23:01:24,971 WARN clearConfigHistory start
+
+2020-04-10 23:11:24,632 INFO [capacityManagement] start correct usage
+
+2020-04-10 23:11:24,633 INFO [capacityManagement] end correct usage, cost: 0s
+
+2020-04-10 23:11:24,983 WARN clearConfigHistory start
+

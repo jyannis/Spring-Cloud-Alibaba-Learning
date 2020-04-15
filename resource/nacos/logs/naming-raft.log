@@ -1,0 +1,100 @@
+2020-04-15 12:20:28,080 INFO initializing Raft sub-system
+
+2020-04-15 12:20:28,083 INFO finish loading all datums, size: 0 cost 2 ms.
+
+2020-04-15 12:20:28,093 INFO cache loaded, datum count: 0, current term: 0
+
+2020-04-15 12:20:28,093 INFO finish to load data from disk, cost: 12 ms.
+
+2020-04-15 12:20:28,101 INFO raft notifier started
+
+2020-04-15 12:20:28,104 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2020-04-15 12:20:27,843 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.2.101","key":"192.168.2.101:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+
+2020-04-15 12:20:28,123 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.2.101","key":"192.168.2.101:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-04-15 12:20:28,240 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2020-04-15 12:20:34,543 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2020-04-15 12:20:52,822 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-04-15 12:20:52,823 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.2.101","key":"192.168.2.101:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+
+2020-04-15 12:20:52,824 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-04-15 12:20:56,901 INFO [RAFT] send beat with 0 keys.
+
+2020-04-15 12:20:56,946 INFO raw beat data size: 164, size of compressed data: 144
+
+2020-04-15 12:21:02,015 INFO [RAFT] send beat with 0 keys.
+
+2020-04-15 12:21:02,016 INFO raw beat data size: 164, size of compressed data: 145
+
+2020-04-15 12:21:02,868 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.2.101","key":"192.168.2.101:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+
+2020-04-15 12:21:07,067 INFO [RAFT] send beat with 0 keys.
+
+2020-04-15 12:21:07,068 INFO raw beat data size: 164, size of compressed data: 145
+
+2020-04-15 12:21:12,272 INFO [RAFT] send beat with 0 keys.
+
+2020-04-15 12:21:12,273 INFO raw beat data size: 164, size of compressed data: 144
+
+2020-04-15 12:21:17,286 INFO [RAFT] send beat with 0 keys.
+
+2020-04-15 12:21:17,287 INFO raw beat data size: 164, size of compressed data: 141
+
+2020-04-15 12:21:22,557 INFO [RAFT] send beat with 0 keys.
+
+2020-04-15 12:21:22,557 INFO raw beat data size: 164, size of compressed data: 142
+
+2020-04-15 12:21:27,577 INFO [RAFT] send beat with 0 keys.
+
+2020-04-15 12:21:27,577 INFO raw beat data size: 164, size of compressed data: 143
+
+2020-04-15 12:21:32,584 INFO [RAFT] send beat with 0 keys.
+
+2020-04-15 12:21:32,584 INFO raw beat data size: 164, size of compressed data: 140
+
+2020-04-15 12:21:37,438 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@service-a
+
+2020-04-15 12:21:37,593 INFO [RAFT] send beat with 0 keys.
+
+2020-04-15 12:21:37,593 INFO raw beat data size: 164, size of compressed data: 141
+
+2020-04-15 12:21:40,108 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@service-b
+
+2020-04-15 12:21:42,605 INFO [RAFT] send beat with 0 keys.
+
+2020-04-15 12:21:42,605 INFO raw beat data size: 164, size of compressed data: 139
+
+2020-04-15 12:21:47,612 INFO [RAFT] send beat with 0 keys.
+
+2020-04-15 12:21:47,613 INFO raw beat data size: 164, size of compressed data: 140
+
+2020-04-15 12:21:52,622 INFO [RAFT] send beat with 0 keys.
+
+2020-04-15 12:21:52,622 INFO raw beat data size: 164, size of compressed data: 142
+
+2020-04-15 12:21:57,633 INFO [RAFT] send beat with 0 keys.
+
+2020-04-15 12:21:57,633 INFO raw beat data size: 164, size of compressed data: 141
+
+2020-04-15 12:22:02,642 INFO [RAFT] send beat with 0 keys.
+
+2020-04-15 12:22:02,642 INFO raw beat data size: 164, size of compressed data: 141
+
+2020-04-15 12:22:07,649 INFO [RAFT] send beat with 0 keys.
+
+2020-04-15 12:22:07,650 INFO raw beat data size: 164, size of compressed data: 141
+
+2020-04-15 12:22:12,659 INFO [RAFT] send beat with 0 keys.
+
+2020-04-15 12:22:12,659 INFO raw beat data size: 164, size of compressed data: 140
+
+2020-04-15 12:22:17,699 INFO [RAFT] send beat with 0 keys.
+
+2020-04-15 12:22:17,699 INFO raw beat data size: 164, size of compressed data: 142
+

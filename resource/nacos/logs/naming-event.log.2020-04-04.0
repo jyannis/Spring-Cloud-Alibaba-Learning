@@ -1,0 +1,138 @@
+2020-04-04 12:19:01,722 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.101:8182:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-04 12:19:01,727 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 192.168.2.101:8182_true,
+
+2020-04-04 12:19:14,604 INFO DEFAULT_GROUP@@service-a {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.101:8181:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-04 12:19:14,604 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-a, ips: 192.168.2.101:8181_true,
+
+2020-04-04 12:19:18,290 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.101:8183:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-04 12:19:18,291 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 192.168.2.101:8182_true,192.168.2.101:8183_true,
+
+2020-04-04 12:37:36,876 INFO {POS} {IP-DISABLED} valid: 192.168.2.101:8182@DEFAULT@DEFAULT_GROUP@@service-b, region: unknown, msg: client timeout after 15000, last beat: 1585975040325
+
+2020-04-04 12:37:36,876 INFO {POS} {IP-DISABLED} valid: 192.168.2.101:8183@DEFAULT@DEFAULT_GROUP@@service-b, region: unknown, msg: client timeout after 15000, last beat: 1585975040992
+
+2020-04-04 12:37:52,114 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.101:8183:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-04 12:37:52,114 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 192.168.2.101:8182_false,
+
+2020-04-04 12:37:52,114 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 192.168.2.101:8182_false,
+
+2020-04-04 12:37:57,099 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.101:8182:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-04 12:37:57,099 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 
+
+2020-04-04 12:38:14,887 INFO {POS} {IP-DISABLED} valid: 192.168.2.101:8181@DEFAULT@DEFAULT_GROUP@@service-a, region: unknown, msg: client timeout after 15000, last beat: 1585975079394
+
+2020-04-04 12:38:29,913 INFO DEFAULT_GROUP@@service-a {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.101:8181:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-04 12:38:29,913 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-a, ips: 
+
+2020-04-04 14:17:40,070 INFO DEFAULT_GROUP@@service-a {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.101:8181:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-04 14:17:40,071 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-a, ips: 192.168.2.101:8181_true,
+
+2020-04-04 14:17:46,700 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.101:8182:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-04 14:17:46,700 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 192.168.2.101:8182_true,
+
+2020-04-04 14:18:07,024 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.101:8183:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-04 14:18:07,024 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 192.168.2.101:8182_true,192.168.2.101:8183_true,
+
+2020-04-04 14:25:36,203 INFO {POS} {IP-DISABLED} valid: 192.168.2.101:8181@DEFAULT@DEFAULT_GROUP@@service-a, region: unknown, msg: client timeout after 15000, last beat: 1585981519741
+
+2020-04-04 14:25:48,394 INFO {POS} {IP-DISABLED} valid: 192.168.2.101:8182@DEFAULT@DEFAULT_GROUP@@service-b, region: unknown, msg: client timeout after 15000, last beat: 1585981528950
+
+2020-04-04 14:25:51,229 INFO DEFAULT_GROUP@@service-a {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.101:8181:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-04 14:25:51,229 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-a, ips: 
+
+2020-04-04 14:25:58,398 INFO {POS} {IP-DISABLED} valid: 192.168.2.101:8183@DEFAULT@DEFAULT_GROUP@@service-b, region: unknown, msg: client timeout after 15000, last beat: 1585981540041
+
+2020-04-04 14:26:03,400 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.101:8182:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-04 14:26:03,400 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 192.168.2.101:8183_false,
+
+2020-04-04 14:26:13,409 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.101:8183:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-04 14:26:13,409 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 
+
+2020-04-04 14:28:26,166 INFO DEFAULT_GROUP@@service-a {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.101:8181:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-04 14:28:26,166 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-a, ips: 192.168.2.101:8181_true,
+
+2020-04-04 14:28:31,682 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.101:8182:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-04 14:28:31,682 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 192.168.2.101:8182_true,
+
+2020-04-04 14:29:05,182 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.101:8183:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-04 14:29:05,182 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 192.168.2.101:8182_true,192.168.2.101:8183_true,
+
+2020-04-04 14:57:06,614 INFO {POS} {IP-DISABLED} valid: 192.168.2.101:8181@DEFAULT@DEFAULT_GROUP@@service-a, region: unknown, msg: client timeout after 15000, last beat: 1585983411187
+
+2020-04-04 14:57:18,790 INFO {POS} {IP-DISABLED} valid: 192.168.2.101:8183@DEFAULT@DEFAULT_GROUP@@service-b, region: unknown, msg: client timeout after 15000, last beat: 1585983423460
+
+2020-04-04 14:57:21,637 INFO DEFAULT_GROUP@@service-a {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.101:8181:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-04 14:57:21,637 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-a, ips: 
+
+2020-04-04 14:57:23,791 INFO {POS} {IP-DISABLED} valid: 192.168.2.101:8182@DEFAULT@DEFAULT_GROUP@@service-b, region: unknown, msg: client timeout after 15000, last beat: 1585983424950
+
+2020-04-04 14:57:33,799 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.101:8183:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-04 14:57:33,799 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 192.168.2.101:8182_false,
+
+2020-04-04 14:57:38,799 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.101:8182:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-04 14:57:38,800 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 
+
+2020-04-04 19:22:33,953 INFO DEFAULT_GROUP@@service-a {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.101:8181:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-04 19:22:33,954 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-a, ips: 192.168.2.101:8181_true,
+
+2020-04-04 19:22:41,335 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.101:8183:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-04 19:22:41,335 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 192.168.2.101:8183_true,
+
+2020-04-04 19:23:24,565 INFO {POS} {IP-DISABLED} valid: 192.168.2.101:8181@DEFAULT@DEFAULT_GROUP@@service-a, region: unknown, msg: client timeout after 15000, last beat: 1585999388535
+
+2020-04-04 19:23:36,656 INFO {POS} {IP-DISABLED} valid: 192.168.2.101:8183@DEFAULT@DEFAULT_GROUP@@service-b, region: unknown, msg: client timeout after 15000, last beat: 1585999399245
+
+2020-04-04 19:23:39,576 INFO DEFAULT_GROUP@@service-a {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.101:8181:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-04 19:23:39,576 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-a, ips: 
+
+2020-04-04 19:23:51,660 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.2.101:8183:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2020-04-04 19:23:51,660 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 
+
+2020-04-04 19:35:42,844 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.101:8182:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-04 19:35:42,844 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 192.168.2.101:8182_true,
+
+2020-04-04 19:36:11,232 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.101:8183:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-04 19:36:11,232 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 192.168.2.101:8182_true,192.168.2.101:8183_true,
+
+2020-04-04 20:11:01,122 INFO DEFAULT_GROUP@@service-a {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.2.101:8181:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2020-04-04 20:11:01,122 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-a, ips: 192.168.2.101:8181_true,
+
+2020-04-04 20:11:50,320 INFO {POS} {IP-DISABLED} valid: 192.168.2.101:8181@DEFAULT@DEFAULT_GROUP@@service-a, region: unknown, msg: client timeout after 15000, last beat: 1586002290738
+
+2020-04-04 20:11:50,549 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-a, ips: 192.168.2.101:8181_false,
+
+2020-04-04 20:11:55,227 INFO service: DEFAULT_GROUP@@service-a {POS} {IP-ENABLED} valid: 192.168.2.101:8181@DEFAULT, region: unknown, msg: client beat ok
+
+2020-04-04 20:12:50,750 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-UPDATED} 192.168.2.101:8182:unknown:DEFAULT_1.0_true_false_DEFAULT->192.168.2.101:8182:unknown:DEFAULT_0.2_true_false_DEFAULT
+
+2020-04-04 20:12:50,750 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 192.168.2.101:8182_true,192.168.2.101:8183_true,
+
+2020-04-04 20:12:54,683 INFO DEFAULT_GROUP@@service-b {SYNC} {IP-UPDATED} 192.168.2.101:8183:unknown:DEFAULT_1.0_true_false_DEFAULT->192.168.2.101:8183:unknown:DEFAULT_0.5_true_false_DEFAULT
+
+2020-04-04 20:12:54,683 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@service-b, ips: 192.168.2.101:8182_true,192.168.2.101:8183_true,
+

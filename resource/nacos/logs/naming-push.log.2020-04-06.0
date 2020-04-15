@@ -1,0 +1,2032 @@
+2020-04-06 19:33:04,491 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:33:24,507 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:33:44,511 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:34:04,513 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:34:24,517 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:34:44,521 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:35:04,524 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:35:24,526 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:35:44,527 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:36:04,529 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:36:24,540 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:36:44,543 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:37:04,546 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:37:24,549 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:37:44,552 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:38:04,554 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:38:24,556 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:38:44,559 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:39:04,561 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:39:24,564 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:39:44,598 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:40:04,600 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:40:22,739 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 19:40:24,120 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 19:40:24,603 INFO [NACOS-PUSH] clientMap size: 1
+
+2020-04-06 19:40:44,606 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 19:41:04,609 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 19:41:24,611 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 19:41:44,613 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 19:42:04,616 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 19:42:24,618 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 19:42:44,620 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 19:43:04,623 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 19:43:24,626 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 19:43:44,630 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 19:44:04,632 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 19:44:24,634 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 19:44:44,637 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 19:45:04,640 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 19:45:24,642 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 19:45:44,645 INFO [NACOS-PUSH] clientMap size: 3
+
+2020-04-06 19:45:52,778 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 19:45:52,781 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:54292, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,54292,111327518278300
+
+2020-04-06 19:45:52,782 INFO send udp packet: 192.168.2.101,54292,111327518278300
+
+2020-04-06 19:46:02,784 INFO retry to push data, key: 192.168.2.101,54292,111327518278300
+
+2020-04-06 19:46:02,784 INFO send udp packet: 192.168.2.101,54292,111327518278300
+
+2020-04-06 19:46:04,188 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 19:46:04,648 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:46:08,067 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 19:46:12,787 INFO retry to push data, key: 192.168.2.101,54292,111327518278300
+
+2020-04-06 19:46:12,787 WARN max re-push times reached, retry times 2, key: 192.168.2.101,54292,111327518278300
+
+2020-04-06 19:46:19,195 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 19:46:24,649 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:46:44,652 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:47:04,655 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:47:24,659 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:47:44,663 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:48:04,664 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:48:24,703 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:48:44,706 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:49:04,714 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:49:24,716 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 19:49:39,924 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 19:49:39,926 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:50034, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,50034,111554665732300
+
+2020-04-06 19:49:39,927 INFO send udp packet: 192.168.2.101,50034,111554665732300
+
+2020-04-06 19:49:39,939 INFO received ack: {"type": "push-ack", "lastRefTime":"111554665732300", "data":""} from: 192.168.2.101:, cost: 50034 ms, unacked: 12, total push: 0
+
+2020-04-06 19:49:42,216 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 19:49:42,217 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:50034, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,50034,111556956227800
+
+2020-04-06 19:49:42,217 INFO send udp packet: 192.168.2.101,50034,111556956227800
+
+2020-04-06 19:49:42,218 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:50413, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,50413,111556956227800
+
+2020-04-06 19:49:42,218 INFO send udp packet: 192.168.2.101,50413,111556956227800
+
+2020-04-06 19:49:42,229 INFO received ack: {"type": "push-ack", "lastRefTime":"111556956227800", "data":""} from: 192.168.2.101:, cost: 50034 ms, unacked: 12, total push: 1
+
+2020-04-06 19:49:42,231 INFO received ack: {"type": "push-ack", "lastRefTime":"111556956227800", "data":""} from: 192.168.2.101:, cost: 50413 ms, unacked: 13, total push: 0
+
+2020-04-06 19:49:44,717 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 19:49:57,003 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 19:49:57,003 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:50034, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,50034,111571742500900
+
+2020-04-06 19:49:57,003 INFO send udp packet: 192.168.2.101,50034,111571742500900
+
+2020-04-06 19:49:57,004 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:50413, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,50413,111571742500900
+
+2020-04-06 19:49:57,004 INFO send udp packet: 192.168.2.101,50413,111571742500900
+
+2020-04-06 19:49:57,004 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:50414, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,50414,111571742500900
+
+2020-04-06 19:49:57,004 INFO send udp packet: 192.168.2.101,50414,111571742500900
+
+2020-04-06 19:49:57,011 INFO received ack: {"type": "push-ack", "lastRefTime":"111571742500900", "data":""} from: 192.168.2.101:, cost: 50034 ms, unacked: 8, total push: 2
+
+2020-04-06 19:49:57,011 INFO received ack: {"type": "push-ack", "lastRefTime":"111571742500900", "data":""} from: 192.168.2.101:, cost: 50413 ms, unacked: 7, total push: 1
+
+2020-04-06 19:49:57,012 INFO received ack: {"type": "push-ack", "lastRefTime":"111571742500900", "data":""} from: 192.168.2.101:, cost: 50414 ms, unacked: 8, total push: 0
+
+2020-04-06 19:50:04,719 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:50:24,720 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:50:44,722 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:51:04,724 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:51:24,726 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:51:44,729 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:52:04,731 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:52:24,733 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:52:44,736 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:53:04,741 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:53:24,743 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:53:44,745 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 19:53:58,308 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 19:53:58,309 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:50034, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,50034,111813048009700
+
+2020-04-06 19:53:58,309 INFO send udp packet: 192.168.2.101,50034,111813048009700
+
+2020-04-06 19:53:58,310 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:50414, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,50414,111813048009700
+
+2020-04-06 19:53:58,310 INFO send udp packet: 192.168.2.101,50414,111813048009700
+
+2020-04-06 19:53:58,313 INFO received ack: {"type": "push-ack", "lastRefTime":"111813048009700", "data":""} from: 192.168.2.101:, cost: 50034 ms, unacked: 4, total push: 1
+
+2020-04-06 19:53:58,314 INFO received ack: {"type": "push-ack", "lastRefTime":"111813048009700", "data":""} from: 192.168.2.101:, cost: 50414 ms, unacked: 4, total push: 0
+
+2020-04-06 19:54:04,746 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 19:54:13,320 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 19:54:13,320 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:50034, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,50034,111828059636200
+
+2020-04-06 19:54:13,321 INFO send udp packet: 192.168.2.101,50034,111828059636200
+
+2020-04-06 19:54:13,322 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:50414, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,50414,111828059636200
+
+2020-04-06 19:54:13,323 INFO send udp packet: 192.168.2.101,50414,111828059636200
+
+2020-04-06 19:54:13,329 INFO received ack: {"type": "push-ack", "lastRefTime":"111828059636200", "data":""} from: 192.168.2.101:, cost: 50034 ms, unacked: 8, total push: 1
+
+2020-04-06 19:54:13,330 INFO received ack: {"type": "push-ack", "lastRefTime":"111828059636200", "data":""} from: 192.168.2.101:, cost: 50414 ms, unacked: 7, total push: 0
+
+2020-04-06 19:54:24,748 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:54:24,876 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 19:54:24,877 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:50034, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,50034,111839615927100
+
+2020-04-06 19:54:24,877 INFO send udp packet: 192.168.2.101,50034,111839615927100
+
+2020-04-06 19:54:24,878 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:63334, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,63334,111839615927100
+
+2020-04-06 19:54:24,878 INFO send udp packet: 192.168.2.101,63334,111839615927100
+
+2020-04-06 19:54:24,879 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:50414, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,50414,111839615927100
+
+2020-04-06 19:54:24,879 INFO send udp packet: 192.168.2.101,50414,111839615927100
+
+2020-04-06 19:54:24,884 INFO received ack: {"type": "push-ack", "lastRefTime":"111839615927100", "data":""} from: 192.168.2.101:, cost: 50034 ms, unacked: 7, total push: 2
+
+2020-04-06 19:54:24,884 INFO received ack: {"type": "push-ack", "lastRefTime":"111839615927100", "data":""} from: 192.168.2.101:, cost: 50414 ms, unacked: 5, total push: 1
+
+2020-04-06 19:54:24,885 INFO received ack: {"type": "push-ack", "lastRefTime":"111839615927100", "data":""} from: 192.168.2.101:, cost: 63334 ms, unacked: 7, total push: 0
+
+2020-04-06 19:54:44,749 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:55:04,751 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:55:24,752 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:55:44,753 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:56:04,755 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:56:24,758 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:56:44,760 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:57:04,761 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:57:24,764 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:57:44,765 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:58:04,766 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:58:24,768 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:58:44,772 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:59:04,773 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:59:24,775 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 19:59:44,777 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 20:00:04,779 INFO [NACOS-PUSH] clientMap size: 6
+
+2020-04-06 20:00:13,464 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 20:00:13,465 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:50414, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,50414,112188204523500
+
+2020-04-06 20:00:13,465 INFO send udp packet: 192.168.2.101,50414,112188204523500
+
+2020-04-06 20:00:23,488 INFO retry to push data, key: 192.168.2.101,50414,112188204523500
+
+2020-04-06 20:00:23,489 INFO send udp packet: 192.168.2.101,50414,112188204523500
+
+2020-04-06 20:00:24,518 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 20:00:24,781 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:00:28,484 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 20:00:29,517 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 20:00:33,491 INFO retry to push data, key: 192.168.2.101,50414,112188204523500
+
+2020-04-06 20:00:33,492 WARN max re-push times reached, retry times 2, key: 192.168.2.101,50414,112188204523500
+
+2020-04-06 20:00:39,520 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 20:00:44,530 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 20:00:44,782 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:01:04,784 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:01:24,785 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:01:44,786 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:02:04,790 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:02:24,838 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:02:44,184 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 20:02:44,184 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:64069, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,64069,112338923614800
+
+2020-04-06 20:02:44,185 INFO send udp packet: 192.168.2.101,64069,112338923614800
+
+2020-04-06 20:02:44,191 INFO received ack: {"type": "push-ack", "lastRefTime":"112338923614800", "data":""} from: 192.168.2.101:, cost: 64069 ms, unacked: 6, total push: 0
+
+2020-04-06 20:02:44,839 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:02:51,865 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 20:02:51,865 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:64069, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,64069,112346604872600
+
+2020-04-06 20:02:51,865 INFO send udp packet: 192.168.2.101,64069,112346604872600
+
+2020-04-06 20:02:51,866 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:64070, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,64070,112346604872600
+
+2020-04-06 20:02:51,866 INFO send udp packet: 192.168.2.101,64070,112346604872600
+
+2020-04-06 20:02:51,870 INFO received ack: {"type": "push-ack", "lastRefTime":"112346604872600", "data":""} from: 192.168.2.101:, cost: 64069 ms, unacked: 5, total push: 1
+
+2020-04-06 20:02:51,872 INFO received ack: {"type": "push-ack", "lastRefTime":"112346604872600", "data":""} from: 192.168.2.101:, cost: 64070 ms, unacked: 6, total push: 0
+
+2020-04-06 20:03:04,840 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:03:24,842 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:03:44,845 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:04:04,848 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:04:24,851 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:04:44,852 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:05:04,855 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:05:24,858 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:05:44,860 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:06:04,861 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:06:24,863 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:06:44,865 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:07:04,868 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:07:24,869 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:07:44,872 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:08:04,875 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:08:24,879 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:08:44,881 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:09:04,884 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:09:24,885 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:09:44,887 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:09:53,629 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 20:09:53,630 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:64069, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,64069,112768369270600
+
+2020-04-06 20:09:53,631 INFO send udp packet: 192.168.2.101,64069,112768369270600
+
+2020-04-06 20:10:03,632 INFO retry to push data, key: 192.168.2.101,64069,112768369270600
+
+2020-04-06 20:10:03,633 INFO send udp packet: 192.168.2.101,64069,112768369270600
+
+2020-04-06 20:10:04,826 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 20:10:04,887 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:10:08,642 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 20:10:13,635 INFO retry to push data, key: 192.168.2.101,64069,112768369270600
+
+2020-04-06 20:10:13,636 WARN max re-push times reached, retry times 2, key: 192.168.2.101,64069,112768369270600
+
+2020-04-06 20:10:19,835 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 20:10:24,889 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:10:44,891 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:11:04,893 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:11:24,895 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:11:44,897 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:12:04,899 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:12:24,912 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:12:44,914 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:12:56,365 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 20:12:56,365 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:65492, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,65492,112951104522900
+
+2020-04-06 20:12:56,366 INFO send udp packet: 192.168.2.101,65492,112951104522900
+
+2020-04-06 20:12:56,366 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:65493, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,65493,112951104522900
+
+2020-04-06 20:12:56,366 INFO send udp packet: 192.168.2.101,65493,112951104522900
+
+2020-04-06 20:12:56,372 INFO received ack: {"type": "push-ack", "lastRefTime":"112951104522900", "data":""} from: 192.168.2.101:, cost: 65493 ms, unacked: 6, total push: 1
+
+2020-04-06 20:12:56,372 INFO received ack: {"type": "push-ack", "lastRefTime":"112951104522900", "data":""} from: 192.168.2.101:, cost: 65492 ms, unacked: 6, total push: 0
+
+2020-04-06 20:12:56,545 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 20:12:56,545 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:65492, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,65492,112951284605500
+
+2020-04-06 20:12:56,545 INFO send udp packet: 192.168.2.101,65492,112951284605500
+
+2020-04-06 20:12:56,545 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:65493, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,65493,112951284605500
+
+2020-04-06 20:12:56,545 INFO send udp packet: 192.168.2.101,65493,112951284605500
+
+2020-04-06 20:12:56,547 INFO received ack: {"type": "push-ack", "lastRefTime":"112951284605500", "data":""} from: 192.168.2.101:, cost: 65492 ms, unacked: 2, total push: 1
+
+2020-04-06 20:12:56,550 INFO received ack: {"type": "push-ack", "lastRefTime":"112951284605500", "data":""} from: 192.168.2.101:, cost: 65493 ms, unacked: 5, total push: 0
+
+2020-04-06 20:13:04,916 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:13:24,917 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:13:44,919 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:14:04,920 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:14:24,922 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:14:44,923 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:15:04,925 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:15:13,742 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 20:15:14,922 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 20:15:24,046 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 20:15:24,046 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:57091, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,57091,113098786329200
+
+2020-04-06 20:15:24,047 INFO send udp packet: 192.168.2.101,57091,113098786329200
+
+2020-04-06 20:15:24,052 INFO received ack: {"type": "push-ack", "lastRefTime":"113098786329200", "data":""} from: 192.168.2.101:, cost: 57091 ms, unacked: 5, total push: 0
+
+2020-04-06 20:15:24,927 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:15:26,432 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 20:15:26,432 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:57091, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,57091,113101171929400
+
+2020-04-06 20:15:26,433 INFO send udp packet: 192.168.2.101,57091,113101171929400
+
+2020-04-06 20:15:26,436 INFO received ack: {"type": "push-ack", "lastRefTime":"113101171929400", "data":""} from: 192.168.2.101:, cost: 57091 ms, unacked: 3, total push: 0
+
+2020-04-06 20:15:28,747 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 20:15:28,748 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:57092, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,57092,113103487096300
+
+2020-04-06 20:15:28,748 INFO send udp packet: 192.168.2.101,57092,113103487096300
+
+2020-04-06 20:15:28,750 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:57091, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,57091,113103487096300
+
+2020-04-06 20:15:28,750 INFO send udp packet: 192.168.2.101,57091,113103487096300
+
+2020-04-06 20:15:28,753 INFO received ack: {"type": "push-ack", "lastRefTime":"113103487096300", "data":""} from: 192.168.2.101:, cost: 57091 ms, unacked: 3, total push: 1
+
+2020-04-06 20:15:28,762 INFO received ack: {"type": "push-ack", "lastRefTime":"113103487096300", "data":""} from: 192.168.2.101:, cost: 57092 ms, unacked: 14, total push: 0
+
+2020-04-06 20:15:44,928 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:16:04,930 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:16:24,931 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:16:44,932 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:16:57,486 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 20:16:57,486 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:64341, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,64341,113192225956600
+
+2020-04-06 20:16:57,487 INFO send udp packet: 192.168.2.101,64341,113192225956600
+
+2020-04-06 20:16:57,487 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:57091, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,57091,113192225956600
+
+2020-04-06 20:16:57,487 INFO send udp packet: 192.168.2.101,57091,113192225956600
+
+2020-04-06 20:16:57,490 INFO received ack: {"type": "push-ack", "lastRefTime":"113192225956600", "data":""} from: 192.168.2.101:, cost: 57091 ms, unacked: 3, total push: 1
+
+2020-04-06 20:16:57,492 INFO received ack: {"type": "push-ack", "lastRefTime":"113192225956600", "data":""} from: 192.168.2.101:, cost: 64341 ms, unacked: 5, total push: 0
+
+2020-04-06 20:17:04,933 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:17:24,934 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:17:44,936 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:18:04,937 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:18:24,939 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:18:44,940 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:19:04,942 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:19:13,798 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 20:19:13,799 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:57091, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,57091,113328538322700
+
+2020-04-06 20:19:13,800 INFO send udp packet: 192.168.2.101,57091,113328538322700
+
+2020-04-06 20:19:23,801 INFO retry to push data, key: 192.168.2.101,57091,113328538322700
+
+2020-04-06 20:19:23,801 INFO send udp packet: 192.168.2.101,57091,113328538322700
+
+2020-04-06 20:19:24,944 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:19:24,970 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 20:19:28,815 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 20:19:33,804 INFO retry to push data, key: 192.168.2.101,57091,113328538322700
+
+2020-04-06 20:19:33,804 WARN max re-push times reached, retry times 2, key: 192.168.2.101,57091,113328538322700
+
+2020-04-06 20:19:39,975 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 20:19:44,946 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:20:04,948 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:20:24,957 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:20:44,959 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:20:45,705 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 20:20:45,708 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:64381, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,64381,113420446125400
+
+2020-04-06 20:20:45,709 INFO send udp packet: 192.168.2.101,64381,113420446125400
+
+2020-04-06 20:20:45,743 INFO received ack: {"type": "push-ack", "lastRefTime":"113420446125400", "data":""} from: 192.168.2.101:, cost: 64381 ms, unacked: 34, total push: 0
+
+2020-04-06 20:21:04,963 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:21:24,965 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:21:29,993 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 20:21:29,993 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:55284, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,55284,113464733319200
+
+2020-04-06 20:21:29,994 INFO send udp packet: 192.168.2.101,55284,113464733319200
+
+2020-04-06 20:21:29,994 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:64381, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,64381,113464733319200
+
+2020-04-06 20:21:29,994 INFO send udp packet: 192.168.2.101,64381,113464733319200
+
+2020-04-06 20:21:29,998 INFO received ack: {"type": "push-ack", "lastRefTime":"113464733319200", "data":""} from: 192.168.2.101:, cost: 64381 ms, unacked: 4, total push: 1
+
+2020-04-06 20:21:29,999 INFO received ack: {"type": "push-ack", "lastRefTime":"113464733319200", "data":""} from: 192.168.2.101:, cost: 55284 ms, unacked: 5, total push: 0
+
+2020-04-06 20:21:44,966 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:22:04,967 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:22:24,969 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:22:44,978 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:23:04,980 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 20:23:24,981 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:23:30,065 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 20:23:30,067 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:64381, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,64381,113584805108800
+
+2020-04-06 20:23:30,068 INFO send udp packet: 192.168.2.101,64381,113584805108800
+
+2020-04-06 20:23:30,071 INFO received ack: {"type": "push-ack", "lastRefTime":"113584805108800", "data":""} from: 192.168.2.101:, cost: 64381 ms, unacked: 3, total push: 0
+
+2020-04-06 20:23:44,982 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:23:45,073 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 20:23:45,073 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:64381, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,64381,113599812548000
+
+2020-04-06 20:23:45,073 INFO send udp packet: 192.168.2.101,64381,113599812548000
+
+2020-04-06 20:23:45,077 INFO received ack: {"type": "push-ack", "lastRefTime":"113599812548000", "data":""} from: 192.168.2.101:, cost: 64381 ms, unacked: 4, total push: 0
+
+2020-04-06 20:24:04,985 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:24:24,987 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:24:44,989 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:25:04,993 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:25:24,995 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:25:44,996 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:26:04,998 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:26:25,002 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:26:45,004 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:27:05,005 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:27:25,007 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:27:45,009 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:28:05,012 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:28:25,015 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:28:45,018 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:29:05,020 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:29:25,022 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:29:45,025 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:30:05,026 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:30:25,030 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:30:45,031 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:31:05,032 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:31:25,035 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:31:45,038 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:32:05,041 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:32:25,043 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:32:45,045 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:33:05,048 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:33:25,050 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:33:45,052 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:34:05,054 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:34:25,056 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:34:45,059 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:35:05,061 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:35:25,064 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:35:45,066 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:36:05,069 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:36:25,071 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:36:45,074 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:37:05,077 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:37:25,080 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:37:45,082 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:38:05,084 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:38:25,086 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:38:45,089 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:39:05,092 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:39:25,094 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:39:45,098 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:40:05,099 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:40:25,101 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:40:45,102 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:41:05,106 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:41:25,109 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:41:45,110 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:42:05,115 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:42:25,117 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:42:45,120 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:43:05,123 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:43:25,124 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:43:45,127 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:44:05,129 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:44:25,131 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:44:45,135 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:45:05,138 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:45:25,140 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:45:45,144 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:46:05,147 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:46:25,150 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:46:45,152 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:47:05,154 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:47:25,157 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:47:45,160 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:48:05,163 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:48:25,166 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:48:45,169 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:49:05,172 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:49:25,174 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:49:45,177 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:50:05,180 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:50:25,181 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:50:45,185 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:51:05,188 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:51:25,190 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:51:45,193 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:52:05,196 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:52:25,199 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:52:45,202 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:53:05,204 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:53:25,207 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:53:45,210 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:54:05,213 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:54:25,214 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:54:45,216 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:55:05,218 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:55:25,219 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:55:45,221 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:56:05,223 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:56:25,224 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:56:45,225 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:57:05,228 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:57:25,230 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:57:45,232 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 20:58:05,233 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:58:14,269 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 20:58:25,235 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:58:29,281 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 20:58:45,237 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:59:05,238 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:59:25,241 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 20:59:45,243 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:00:05,245 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:00:25,247 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:00:45,248 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:01:05,250 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:01:25,252 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:01:45,253 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:02:05,255 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:02:25,256 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:02:45,258 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:03:05,259 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:03:25,261 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:03:45,265 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:04:05,269 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:04:25,272 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:04:45,274 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:05:05,274 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:05:25,275 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:05:45,278 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:06:05,280 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:06:25,281 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:06:45,283 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:07:05,296 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:07:25,298 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:07:45,301 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:08:05,302 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:08:25,303 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:08:45,305 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:09:05,306 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:09:25,307 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:09:45,309 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:10:05,315 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:10:25,316 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:10:45,318 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:11:05,319 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:11:25,321 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:11:45,323 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:12:05,325 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:12:25,325 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:12:45,326 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:13:05,328 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:13:25,330 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:13:45,332 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:14:05,334 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:14:25,335 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:14:45,337 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:15:05,338 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:15:25,342 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:15:45,343 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:16:05,346 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:16:25,347 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:16:45,348 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:17:05,350 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:17:25,351 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:17:45,353 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:18:05,356 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:18:25,359 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:18:45,361 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:19:05,363 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:19:25,364 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:19:45,365 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:20:05,367 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:20:25,368 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:20:45,369 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:21:05,371 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:21:25,372 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:21:45,374 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:22:05,375 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:22:25,376 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:22:45,379 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:23:05,380 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:23:25,382 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:23:45,385 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:24:05,388 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:24:25,390 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:24:45,391 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:25:05,393 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:25:25,394 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:25:45,396 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:26:05,396 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:26:25,397 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:26:45,399 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:27:05,401 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:27:25,403 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:27:45,406 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:28:05,410 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:28:25,411 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:28:45,413 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:29:05,415 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:29:25,418 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:29:45,418 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:30:05,421 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:30:25,423 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:30:45,426 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:31:05,428 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:31:25,431 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:31:45,434 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:32:05,435 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:32:25,437 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:32:45,440 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:33:05,441 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:33:25,443 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:33:45,445 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:34:05,447 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:34:25,449 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:34:45,458 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:35:05,461 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:35:25,462 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:35:45,464 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:36:05,465 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:36:25,466 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:36:45,469 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:37:05,472 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:37:25,475 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:37:45,477 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:38:05,480 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:38:25,481 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:38:45,483 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:39:05,486 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:39:25,490 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:39:45,493 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:40:05,496 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:40:25,497 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:40:45,502 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:41:05,504 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:41:25,505 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:41:45,506 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:42:05,509 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:42:25,510 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:42:45,512 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:43:05,513 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:43:25,515 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:43:45,516 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:44:05,517 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:44:25,519 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:44:45,521 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:45:05,522 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:45:25,524 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:45:45,525 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:46:05,526 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:46:25,528 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:46:45,528 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:47:05,530 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:47:25,532 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:47:45,532 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:48:05,534 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:48:25,536 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:48:45,549 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:49:05,551 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:49:25,552 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:49:45,554 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:50:05,555 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:50:25,556 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:50:45,558 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:51:05,560 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:51:25,561 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:51:45,562 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:52:05,563 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:52:25,564 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:52:45,566 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:53:05,567 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:53:25,570 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:53:45,573 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:54:05,576 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:54:25,577 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:54:45,579 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:55:05,583 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:55:25,583 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:55:45,586 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:56:05,588 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:56:25,590 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:56:45,591 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:57:05,594 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:57:25,595 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:57:45,630 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:58:05,633 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 21:58:21,892 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 21:58:21,893 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:65356, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,65356,119276632664900
+
+2020-04-06 21:58:21,894 INFO send udp packet: 192.168.2.101,65356,119276632664900
+
+2020-04-06 21:58:21,901 INFO received ack: {"type": "push-ack", "lastRefTime":"119276632664900", "data":""} from: 192.168.2.101:, cost: 65356 ms, unacked: 7, total push: 0
+
+2020-04-06 21:58:25,636 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 21:58:25,907 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 21:58:25,907 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:65357, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,65357,119280646582600
+
+2020-04-06 21:58:25,908 INFO send udp packet: 192.168.2.101,65357,119280646582600
+
+2020-04-06 21:58:25,908 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:65356, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,65356,119280646582600
+
+2020-04-06 21:58:25,908 INFO send udp packet: 192.168.2.101,65356,119280646582600
+
+2020-04-06 21:58:25,913 INFO received ack: {"type": "push-ack", "lastRefTime":"119280646582600", "data":""} from: 192.168.2.101:, cost: 65357 ms, unacked: 5, total push: 1
+
+2020-04-06 21:58:25,914 INFO received ack: {"type": "push-ack", "lastRefTime":"119280646582600", "data":""} from: 192.168.2.101:, cost: 65356 ms, unacked: 6, total push: 0
+
+2020-04-06 21:58:45,637 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 21:59:05,639 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 21:59:25,643 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 21:59:45,645 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:00:05,646 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:00:25,648 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:00:45,650 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:01:05,656 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:01:25,657 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:01:45,660 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:02:05,662 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:02:25,664 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:02:45,667 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:03:05,669 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:03:25,673 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:03:45,676 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:04:05,680 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:04:25,683 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:04:45,685 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:05:05,687 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:05:25,691 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:05:45,693 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:06:05,695 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:06:25,697 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:06:45,700 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:07:05,702 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:07:25,704 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:07:45,707 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:08:05,709 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:08:25,711 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:08:45,712 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:09:05,714 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:09:25,715 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:09:45,718 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:10:05,719 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:10:25,720 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:10:45,721 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:11:05,723 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:11:25,725 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:11:45,727 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:12:05,729 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:12:25,730 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:12:45,732 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:13:05,733 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:13:25,734 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:13:45,736 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:14:05,737 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:14:25,738 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:14:45,740 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:15:05,742 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:15:25,745 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:15:45,746 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:16:05,748 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:16:25,749 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:16:45,750 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:17:05,752 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:17:25,753 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:17:45,754 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:18:05,756 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:18:25,759 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:18:45,762 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:19:05,765 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:19:25,767 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:19:45,769 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:20:05,770 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:20:25,772 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:20:45,774 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:21:05,775 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:21:25,778 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:21:45,780 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:22:05,781 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:22:25,783 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:22:45,791 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:23:05,794 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:23:25,796 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:23:45,797 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:24:05,799 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:24:25,800 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:24:45,802 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:25:05,804 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:25:25,805 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:25:45,807 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:26:05,809 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:26:25,810 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:26:45,811 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:27:05,814 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:27:25,815 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:27:45,817 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:28:05,819 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:28:25,820 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:28:45,821 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:29:05,823 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:29:25,825 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:29:45,826 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:30:05,828 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:30:25,829 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:30:45,830 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:31:05,831 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:31:25,832 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:31:45,834 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:32:05,836 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:32:25,838 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:32:45,840 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:33:05,841 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:33:25,843 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:33:45,844 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:34:05,845 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:34:25,847 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:34:45,848 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:35:05,850 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:35:25,852 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:35:45,853 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:36:05,853 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:36:25,855 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:36:45,859 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:37:05,864 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:37:25,866 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:37:45,869 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:38:05,871 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:38:25,875 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:38:45,878 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:39:05,879 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:39:25,882 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:39:45,883 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:40:05,885 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:40:25,887 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:40:45,888 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:41:05,890 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:41:25,893 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:41:45,894 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:42:05,898 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:42:25,899 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:42:45,900 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:43:05,903 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:43:25,904 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:43:45,905 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:44:05,906 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:44:25,907 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:44:45,909 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:45:05,910 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:45:25,913 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:45:45,914 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:46:05,918 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:46:25,919 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:46:45,920 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:47:05,921 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:47:25,922 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:47:45,926 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:48:05,927 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:48:25,930 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:48:45,932 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:49:05,933 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:49:25,934 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:49:45,935 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:50:05,938 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:50:25,940 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:50:45,940 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:51:05,943 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:51:25,944 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:51:45,945 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:52:05,949 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:52:25,951 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:52:45,954 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:53:05,956 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:53:25,959 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:53:45,960 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:54:05,961 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:54:25,963 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:54:45,966 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:55:05,969 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:55:25,970 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:55:45,971 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:56:05,973 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:56:25,976 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:56:45,978 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:57:05,987 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:57:25,992 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:57:45,993 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:58:05,995 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 22:58:20,889 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 22:58:20,890 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:65357, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,65357,122875629356700
+
+2020-04-06 22:58:20,891 INFO send udp packet: 192.168.2.101,65357,122875629356700
+
+2020-04-06 22:58:26,001 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 22:58:30,893 INFO retry to push data, key: 192.168.2.101,65357,122875629356700
+
+2020-04-06 22:58:30,893 INFO send udp packet: 192.168.2.101,65357,122875629356700
+
+2020-04-06 22:58:35,901 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 22:58:37,258 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 22:58:38,609 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 22:58:38,609 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:53697, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,53697,122893349223400
+
+2020-04-06 22:58:38,610 INFO send udp packet: 192.168.2.101,53697,122893349223400
+
+2020-04-06 22:58:38,615 INFO received ack: {"type": "push-ack", "lastRefTime":"122893349223400", "data":""} from: 192.168.2.101:, cost: 53697 ms, unacked: 5, total push: 1
+
+2020-04-06 22:58:40,896 INFO retry to push data, key: 192.168.2.101,65357,122875629356700
+
+2020-04-06 22:58:40,896 WARN max re-push times reached, retry times 2, key: 192.168.2.101,65357,122875629356700
+
+2020-04-06 22:58:44,122 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 22:58:44,122 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:53698, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,53698,122898861899000
+
+2020-04-06 22:58:44,122 INFO send udp packet: 192.168.2.101,53698,122898861899000
+
+2020-04-06 22:58:44,123 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:53697, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,53697,122898861899000
+
+2020-04-06 22:58:44,123 INFO send udp packet: 192.168.2.101,53697,122898861899000
+
+2020-04-06 22:58:44,125 INFO received ack: {"type": "push-ack", "lastRefTime":"122898861899000", "data":""} from: 192.168.2.101:, cost: 53697 ms, unacked: 2, total push: 1
+
+2020-04-06 22:58:44,127 INFO received ack: {"type": "push-ack", "lastRefTime":"122898861899000", "data":""} from: 192.168.2.101:, cost: 53698 ms, unacked: 5, total push: 0
+
+2020-04-06 22:58:46,004 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:58:46,663 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 22:58:46,663 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:53698, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,53698,122901403172500
+
+2020-04-06 22:58:46,663 INFO send udp packet: 192.168.2.101,53698,122901403172500
+
+2020-04-06 22:58:46,664 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:53697, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,53697,122901403172500
+
+2020-04-06 22:58:46,664 INFO send udp packet: 192.168.2.101,53697,122901403172500
+
+2020-04-06 22:58:46,666 INFO received ack: {"type": "push-ack", "lastRefTime":"122901403172500", "data":""} from: 192.168.2.101:, cost: 53698 ms, unacked: 3, total push: 1
+
+2020-04-06 22:58:46,667 INFO received ack: {"type": "push-ack", "lastRefTime":"122901403172500", "data":""} from: 192.168.2.101:, cost: 53697 ms, unacked: 3, total push: 0
+
+2020-04-06 22:59:06,005 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 22:59:15,942 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 22:59:15,949 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:53698, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,53698,122930688999800
+
+2020-04-06 22:59:15,949 INFO send udp packet: 192.168.2.101,53698,122930688999800
+
+2020-04-06 22:59:15,954 INFO received ack: {"type": "push-ack", "lastRefTime":"122930688999800", "data":""} from: 192.168.2.101:, cost: 53698 ms, unacked: 5, total push: 0
+
+2020-04-06 22:59:26,152 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 22:59:30,964 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 22:59:32,282 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 22:59:46,154 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 22:59:47,309 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 23:00:06,156 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 23:00:26,160 INFO [NACOS-PUSH] clientMap size: 0
+
+2020-04-06 23:00:46,163 INFO [NACOS-PUSH] clientMap size: 2
+
+2020-04-06 23:00:46,224 INFO DEFAULT_GROUP@@service-a is changed, add it to push queue.
+
+2020-04-06 23:00:46,224 INFO serviceName: DEFAULT_GROUP@@service-a changed, schedule push for: 192.168.2.101:61412, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,61412,123020963710600
+
+2020-04-06 23:00:46,224 INFO send udp packet: 192.168.2.101,61412,123020963710600
+
+2020-04-06 23:00:46,230 INFO received ack: {"type": "push-ack", "lastRefTime":"123020963710600", "data":""} from: 192.168.2.101:, cost: 61412 ms, unacked: 6, total push: 0
+
+2020-04-06 23:00:48,153 INFO DEFAULT_GROUP@@service-b is changed, add it to push queue.
+
+2020-04-06 23:00:48,153 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:61411, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,61411,123022892654100
+
+2020-04-06 23:00:48,153 INFO send udp packet: 192.168.2.101,61411,123022892654100
+
+2020-04-06 23:00:48,154 INFO serviceName: DEFAULT_GROUP@@service-b changed, schedule push for: 192.168.2.101:61412, agent: Nacos-Java-Client:v1.0.0, key: 192.168.2.101,61412,123022892654100
+
+2020-04-06 23:00:48,154 INFO send udp packet: 192.168.2.101,61412,123022892654100
+
+2020-04-06 23:00:48,161 INFO received ack: {"type": "push-ack", "lastRefTime":"123022892654100", "data":""} from: 192.168.2.101:, cost: 61411 ms, unacked: 8, total push: 1
+
+2020-04-06 23:00:48,162 INFO received ack: {"type": "push-ack", "lastRefTime":"123022892654100", "data":""} from: 192.168.2.101:, cost: 61412 ms, unacked: 8, total push: 0
+
+2020-04-06 23:01:06,164 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:01:26,166 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:01:46,167 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:02:06,170 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:02:26,172 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:02:46,173 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:03:06,177 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:03:26,179 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:03:46,181 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:04:06,185 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:04:26,187 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:04:46,191 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:05:06,193 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:05:26,195 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:05:46,196 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:06:06,200 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:06:26,201 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:06:46,202 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:07:06,204 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:07:26,205 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:07:46,207 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:08:06,208 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:08:26,209 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:08:46,211 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:09:06,213 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:09:26,214 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:09:46,215 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:10:06,216 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:10:26,217 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:10:46,219 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:11:06,221 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:11:26,222 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:11:46,224 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:12:06,225 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:12:26,227 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:12:46,229 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:13:06,231 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:13:26,232 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:13:46,233 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:14:06,235 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:14:26,236 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:14:46,237 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:15:06,239 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:15:26,241 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:15:46,242 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:16:06,243 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:16:26,244 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:16:46,246 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:17:06,247 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:17:26,249 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:17:46,250 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:18:06,252 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:18:26,253 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:18:46,255 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:19:06,256 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:19:26,257 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:19:46,258 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:20:06,260 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:20:26,261 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:20:46,263 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:21:06,264 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:21:26,267 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:21:46,269 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:22:06,270 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:22:26,271 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:22:46,272 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:23:06,274 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:23:26,275 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:23:46,277 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:24:06,279 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:24:26,280 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:24:46,283 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:25:06,284 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:25:26,285 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:25:46,287 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:26:06,289 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:26:26,291 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:26:46,292 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:27:06,294 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:27:26,295 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:27:46,295 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:28:06,297 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:28:26,299 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:28:46,300 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:29:06,301 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:29:26,304 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:29:46,306 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:30:06,307 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:30:26,309 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:30:46,311 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:31:06,312 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:31:26,314 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:31:46,316 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:32:06,317 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:32:26,318 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:32:46,320 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:33:06,321 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:33:26,322 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:33:46,324 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:34:06,325 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:34:26,327 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:34:46,328 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:35:06,329 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:35:26,331 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:35:46,332 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:36:06,332 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:36:26,334 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:36:46,335 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:37:06,337 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:37:26,339 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:37:46,341 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:38:06,343 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:38:26,346 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:38:46,347 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:39:06,350 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:39:26,352 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:39:46,353 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:40:06,355 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:40:26,356 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:40:46,357 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:41:06,359 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:41:26,359 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:41:46,361 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:42:06,362 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:42:26,364 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:42:46,366 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:43:06,367 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:43:26,368 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:43:46,370 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:44:06,371 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:44:26,374 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:44:46,376 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:45:06,378 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:45:26,379 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:45:46,381 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:46:06,381 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:46:26,384 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:46:46,385 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:47:06,386 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:47:26,389 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:47:46,392 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:48:06,393 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:48:26,395 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:48:46,398 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:49:06,400 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:49:26,403 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:49:46,405 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:50:06,407 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:50:26,407 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:50:46,408 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:51:06,409 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:51:26,411 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:51:46,413 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:52:06,415 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:52:26,416 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:52:46,418 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:53:06,419 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:53:26,420 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:53:46,421 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:54:06,423 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:54:26,425 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:54:46,426 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:55:06,428 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:55:26,430 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:55:46,431 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:56:06,432 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:56:26,434 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:56:46,436 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:57:06,438 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:57:26,440 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:57:46,441 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:58:06,442 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:58:26,443 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:58:46,445 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:59:06,447 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:59:26,449 INFO [NACOS-PUSH] clientMap size: 4
+
+2020-04-06 23:59:46,450 INFO [NACOS-PUSH] clientMap size: 4
+
