@@ -27,6 +27,8 @@ windows：https://github.com/alibaba/nacos/releases/download/1.0.1/nacos-server-
 
 linux：https://github.com/alibaba/nacos/releases/download/1.0.1/nacos-server-1.0.1.tar.gz
 
+如果是windows版，也可以参考项目的resource文件夹，把里面的*nacos*文件夹取出来就可以了。
+
 
 
 ## 使用方式
