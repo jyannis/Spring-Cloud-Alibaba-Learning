@@ -54,13 +54,13 @@ Apache RocketMQ是阿里开源的分布式消息中间件，已经捐献给Apach
 
 1. 启动NameServer
 
-   Cmd命令框执行进入至‘MQ文件夹\bin’下，然后执行‘start mqnamesrv.cmd’，启动NAMESERVER。成功后会弹出提示框，此框勿关闭。
+   Cmd命令框执行进入至‘MQ文件夹\bin’下，然后执行`start mqnamesrv.cmd`，启动NameServer。成功后会弹出提示框，此框勿关闭。
 
    ![启动NameServer](https://raw.githubusercontent.com/jyannis/Spring-Cloud-Alibaba-Learning/master/4.RocketMQ/docs/%E5%90%AF%E5%8A%A8NameServer.png)
 
 2. 启动Broker
 
-   Cmd命令框执行进入至‘MQ文件夹\bin’下，然后执行‘start mqbroker.cmd -n 127.0.0.1:9876 autoCreateTopicEnable=true’，启动BROKER。成功后会弹出提示框，此框勿关闭。
+   Cmd命令框执行进入至‘MQ文件夹\bin’下，然后执行`start mqbroker.cmd -n 127.0.0.1:9876 autoCreateTopicEnable=true`，启动Broker。成功后会弹出提示框，此框勿关闭。
 
    ![启动Broker](https://raw.githubusercontent.com/jyannis/Spring-Cloud-Alibaba-Learning/master/4.RocketMQ/docs/%E5%90%AF%E5%8A%A8Broker.png)
 
@@ -117,6 +117,14 @@ Apache RocketMQ是阿里开源的分布式消息中间件，已经捐献给Apach
    # 如果启动成功，能看到类似如下的日志：
    2019-07-18 17:08:41 INFO main - The broker[itmuchcomdeMacBook-Pro.local, 192.168.43.197:10911] boot success. serializeType=JSON and name server is localhost:9876
    ```
+
+<br/>
+
+<br/>
+
+## 启动RocketMQ控制台
+
+打开命令行输入`java -jar rocketmq-console-ng-1.0.1.jar`即可。
 
 <br/>
 
