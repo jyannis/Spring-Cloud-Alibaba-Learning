@@ -1,0 +1,9 @@
+rocketmq:
+  name-server: 127.0.0.1:9876
+  producer:
+    # 必须指定group
+    group: group1
+
+server:
+  port: 8181
+
