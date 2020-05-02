@@ -1,0 +1,16 @@
+rocketmq:
+  name-server: 127.0.0.1:9876
+  producer:
+    # 必须指定group
+    group: group1
+
+spring:
+  cloud:
+    stream:
+      bindings:
+        myOutput:
+          destination: output-topic
+
+server:
+  port: 8181
+
