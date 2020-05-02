@@ -1,0 +1,15 @@
+rocketmq:
+  name-server: 127.0.0.1:9876
+
+spring:
+  cloud:
+    stream:
+      bindings:
+        myInput:
+          destination: output-topic
+          # 如果是rocketMQ就一定要设置group
+          # 其他消息队列可以不设置
+          group: group-one
+
+server:
+  port: 8183
