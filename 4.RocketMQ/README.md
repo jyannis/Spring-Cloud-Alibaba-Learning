@@ -52,6 +52,14 @@ Apache RocketMQ是阿里开源的分布式消息中间件，已经捐献给Apach
 
 ### 启动
 
+启动前请先配置好ROCKETMQ_HOME环境变量：
+
+在“计算机 → 高级系统设置 → 环境变量”中，添加一个变量ROCKETMQ_HOME，其值为你rocketmq文件夹的路径，例如：
+
+```
+C:\Users\{你的用户名}\rocketmq-all-4.5.1
+```
+
 1. 启动NameServer
 
    Cmd命令框执行进入至‘MQ文件夹\bin’下，然后执行`start mqnamesrv.cmd`，启动NameServer。成功后会弹出提示框，此框勿关闭。
